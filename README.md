@@ -33,7 +33,7 @@ Focused on
     Exploited VSFTPD 2.3.4 (CVE-2011-2523) to gain root access using Metasploit.
   </li>
   <li><b>Web Application Penetration Testing</b><br/>
-    Uncovered SQL Injection, Cross-Site Scripting (XSS), and Insecure Direct Object Reference (IDOR) vulnerabilities in DVWA using Burp Suite and sqlmap.
+    Uncovered SQL Injection, XSS, and IDOR vulnerabilities in DVWA using Burp Suite and sqlmap.
   </li>
   <li><b>Buffer Overflow Exploitation</b><br/>
     Practiced exploitation of buffer overflow vulnerabilities in controlled lab environments.
