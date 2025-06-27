@@ -30,11 +30,11 @@ Focused on
 <h2 id="offensive-security">🔴 Offensive Security</h2>
 <ul>
   <li>
-    <b><a href="https://github.com/Tamarasza999/web-net-exploit" target="_blank">Metasploitable2 Exploitation</a></b><br/>
+    <b><a href="https://github.com/Tamarasza999/web-net-exploit#network-service-exploitation" target="_blank">Metasploitable2 Exploitation</a></b><br/>
     Exploited VSFTPD 2.3.4 (CVE-2011-2523) to gain root access using Metasploit.
   </li>
   <li>
-    <b><a href="https://github.com/Tamarasza999/web-net-exploit#web-application-penetration-testing" target="_blank">Web Application Testing</a></b><br/>
+    <b><a href="https://github.com/Tamarasza999/web-net-exploit" target="_blank">Web Application Testing</a></b><br/>
     Uncovered SQL Injection, Cross-Site Scripting, and Insecure Direct Object Reference vulnerabilities in DVWA using Burp Suite and OWASP ZAP.
   </li>
   <li>
