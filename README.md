@@ -10,10 +10,9 @@ Focused on
 
 <h2 id="network-security">🔵 Network Security</h2>
 <ul>
-  <li><b>Enterprise Network Hardening & WLAN Security</b><br/>
-    Secured Cisco routers with AAA/RADIUS authentication (role-based access for HR and Finance).<br/>
-    Implemented WPA2-Enterprise WLAN with 802.1X and guest isolation.<br/>
-    Zero Trust Lab.<br/>
+  <li>
+     <b><a href="https://github.com/Tamarasza999/netlock-wlan" target="_blank">Network Hardening & WLAN Security</a></b><br/>
+   Strengthened enterprise networks with AAA-based RADIUS authentication and RBAC. Deployed WPA2-Enterprise WLAN and isolated guest traffic. Simulated Zero Trust enforcement.
   </li>
   <li><b>Firewall & IDS/IPS Deployment</b><br/>
     Configured Cisco ASA firewall zones with micro-segmentation rules.<br/>
