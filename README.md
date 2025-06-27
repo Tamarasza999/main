@@ -11,7 +11,7 @@ Focused on
 <h2 id="network-security">🔵 Network Security</h2>
 <ul>
   <li>
-     <b><a href="https://github.com/Tamarasza999/netlock-wlan" target="_blank">Network Hardening & WLAN Security</a></b><br/>
+     <b><a href="https://github.com/Tamarasza999/netlock-wlan" target="_blank">Network Hardening and WLAN Security</a></b><br/>
    Strengthened enterprise networks with AAA-based RADIUS authentication and RBAC. Deployed WPA2-Enterprise WLAN and isolated guest traffic. Simulated Zero Trust enforcement.
   </li>
   <li><b>Firewall & IDS/IPS Deployment</b><br/>
