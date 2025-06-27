@@ -29,12 +29,10 @@ Focused on
 
 <h2 id="offensive-security">🔴 Offensive Security</h2>
 <ul>
-  <li><b>Metasploitable2 Exploitation</b><br/>
-    Exploited VSFTPD 2.3.4 (CVE-2011-2523) to gain root access using Metasploit.
-  </li>
-  <li><b>Web Application Penetration Testing</b><br/>
-    Uncovered SQL Injection, XSS, and IDOR vulnerabilities in DVWA using Burp Suite and sqlmap.
-  </li>
+  <li>
+  <b><a href="https://github.com/Tamarasza999/web-net-exploit" target="_blank">Metasploitable2 Exploitation and Web App Testing</a></b><br/>
+  Exploitation of OWASP Top 10 and network service vulnerabilities in a controlled lab using tools like Nmap, Metasploit, Burp Suite, Python scripting, and ZAP.
+</li>
   <li><b>Buffer Overflow Exploitation</b><br/>
     Practiced exploitation of buffer overflow vulnerabilities in controlled lab environments.
   </li>
