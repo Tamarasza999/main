@@ -14,7 +14,7 @@ Focused on
      <b><a href="https://github.com/Tamarasza999/netlock-wlan" target="_blank">Network Hardening and WLAN Security</a></b><br/>
    Strengthened enterprise networks with AAA-based RADIUS authentication and RBAC. Deployed WPA2-Enterprise WLAN and isolated guest traffic. Simulated Zero Trust enforcement.
   </li>
-  <li><b>Firewall & IDS/IPS Deployment</b><br/>
+  <li><b><a href="https://github.com/Tamarasza999/netlock-wlan#firewall--idsips-deployment" target="_blank">Firewall & IDS/IPS Deployment</a></b><br/>
     Configured Cisco ASA firewall zones with micro-segmentation rules.<br/>
     Deployed Suricata with custom rules to detect SYN floods.
   </li>
@@ -44,15 +44,17 @@ Focused on
 
 <h2 id="defensive-operations">🛡️ Defensive Operations</h2>
 <ul>
-  <li><b>SOC Threat Hunting</b><br/>
-    Zero Trust Network Access violations.<br/>
-    Built Elastic SIEM alerts for brute-force attack detection.
-  </li>
-  <li><b>Splunk SIEM Threat Hunting</b><br/>
-    Detected brute-force attacks using SPL queries: <code>index=botsv1 http_method=POST</code>.
+  <li><b>SIEM-Based Anomaly Analysis (Elastic + Splunk)</b><br/>
+    Investigated and correlated anomalous network behavior using Elastic SIEM dashboards and Splunk SPL
   </li>
   <li><b>Malware Analysis Lab</b><br/>
     Created a sandbox environment to analyze malware behavior.
+  </li>
+  <li><b>Security Automation Using SOAR and EDR </b><br/>
+  Integrated LimaCharlie EDR with Tines to automate incident response workflows. Designed end-to-end detection-to-response pipelines and validated real-time alerting and containment actions.
+  </li>
+  <li><b>pfSense Firewall Deployment</b><br/>
+Configured pfSense firewall with VLAN segmentation and custom rules for network protection.
   </li>
 </ul>
 
@@ -71,5 +73,9 @@ Focused on
   <li>
     <b><a href="https://github.com/Tamarasza999/ransomware-sim" target="_blank">Ransomware Simulator:</a></b><br/>
     AES-256 encryption/decryption of folder files for educational use. (C#)
+  </li>
+  <li>
+    <b>Keylogger</b><br/>
+    Buffered keystroke logger with timed file writes, silent mode, and efficient capture using periodic flush. (Python)
   </li>
 </ul>
