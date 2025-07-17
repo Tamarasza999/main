@@ -71,11 +71,11 @@ Configured pfSense firewall with VLAN segmentation and custom rules for network 
 <h2 id="software-engineering">💻 Software Engineering</h2>
 <ul>
   <li>
-    <b>Secure Login System:</b><br/>
+    <b>Secure Login System</b><br/>
     Flask app with SQLite, bcrypt, and TOTP-based 2FA. (Python)
   </li>
   <li>
-    <b><a href="https://github.com/Tamarasza999/ransomware-sim" target="_blank">Ransomware Simulator:</a></b><br/>
+    <a href="https://github.com/Tamarasza999/ransomware-sim" target="_blank"><b>Ransomware Simulator</b></a><br/>
     AES-256 encryption/decryption of folder files for educational use. (C#)
   </li>
   <li>
