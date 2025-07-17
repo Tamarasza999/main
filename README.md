@@ -40,6 +40,10 @@ Focused on
     <b>Buffer Overflow Exploitation</b><br/>
     Practiced exploitation of buffer overflow vulnerabilities in controlled lab environments.
   </li>
+  <li>
+    <b>Command-and-Control (C2) server</b><br/>
+    Developed a Python reverse shell agent for Windows targets that connects back to a Kali Linux C2 server.
+  </li>
 </ul>
 
 <h2 id="defensive-operations">🛡️ Defensive Operations</h2>
